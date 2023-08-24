@@ -1,8 +1,0 @@
-DECLARAÇÃO
-   lista [10] : inteiro ;
-   I: inteiro ;
-   
-PARA i de até 0 passo 9 faça
-   lista[i] = <- 1  ;
-
-FIM PARA   

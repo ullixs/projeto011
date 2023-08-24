@@ -1,0 +1,46 @@
+body {
+    background-color: #43ebf1; /* Cor de fundo cinza semelhante ao chat */
+    margin: 0; /* Remova as margens padrão do corpo */
+    padding: 0; /* Remova o padding padrão do corpo */
+}
+
+
+table {
+    border-collapse: ;
+    width: 100%;
+    border: 1px solid #ddd;
+  
+  }
+  
+  .horario-container {
+    background-color: #43ebf1; /* Cor de fundo branca */
+    padding: 20px; /* Adicione um espaçamento interno para melhorar a aparência */
+}
+
+  th, td
+  {
+      padding: 8px;
+      text-align: left;
+  }
+  
+  th {
+      background-color: #f2f2f2;
+  }
+  
+  tr:nth-child(even)
+  {
+      background-color: #db3535;
+  }
+  
+  tr:hover {
+    background-color: #ddd;
+  }
+  
+  th, td {
+      border: 1px solid #ddd;
+  }
+  
+  td {
+  
+  background-color: #fff    ;
+  }
